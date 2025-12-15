@@ -1,0 +1,9 @@
+[package]
+name = "orbink_annotator"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+gpui = { git = "https://github.com/zed-industries/zed", package = "gpui" }
+smallvec = "1"
+
